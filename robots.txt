@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://socefi.github.io/snippets-pxvfqw/sitemap.xml
